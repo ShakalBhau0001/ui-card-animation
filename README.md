@@ -109,6 +109,12 @@ Simply open `index.html` in any modern browser.
 
 ---
 
+## 📸 Preview
+
+![Preview](assets/U1.png)
+
+---
+
 ## 🪪 Author
 
 > **Creator: Shakal Bhau**
