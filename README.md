@@ -11,11 +11,12 @@ This project features **full-screen animated cards** that transition smoothly wi
 ```bash
 ui-card-animation/
 │
-├── index.html         # Main structure and layout
-├── styles.css         # Styling, layout & animations
-├── main.js            # Logic, animations & transitions (GSAP)
-├── LICENSE
-└── README.md          # Project documentation
+├── assets/                # Screenshots
+├── index.html             # Main structure and layout
+├── styles.css             # Styling, layout & animations
+├── main.js                # Logic, animations & transitions (GSAP)
+├── LICENSE                # MIT LICENSE
+└── README.md              # Project documentation
 ```
 
 ---
